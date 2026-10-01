@@ -1,16 +1,27 @@
-# pemob
+# Pemrograman Mobile CR002
 
-A new Flutter project.
+**20240801098 - Wilson Fabian**
 
-## Getting Started
+**Dosen Pengampu:**
+Jefry Sunupurwa Asri, S.Kom., M.Kom.
 
-This project is a starting point for a Flutter application.
+## Teknologi yang Digunakan
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter
+* Dart
+* Android
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tentang Project
+
+Repository ini berisi kumpulan hasil pembelajaran dan pengerjaan tugas pada mata kuliah **Pemrograman Mobile CR002** selama satu semester.
+
+## Tujuan
+
+Project ini dibuat sebagai dokumentasi proses belajar dalam memahami dasar-dasar pengembangan aplikasi mobile menggunakan **Flutter** dan **Dart**, sekaligus sebagai kumpulan hasil praktik selama 14 pertemuan perkuliahan.
+
+## Materi Pembelajaran
+
+Setiap pertemuan digunakan untuk memahami konsep baru sekaligus menerapkannya melalui latihan dan tugas praktik.
+
+
