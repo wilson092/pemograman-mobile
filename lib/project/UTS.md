@@ -309,17 +309,6 @@ lib/project/app/
 | `features/` | Pemisahan modular per fitur: `auth`, `home`, `map`, `compare`, `admin` |
 | `widgets/` | Komponen reusable: TopBar, BottomNav, StatCard, RiskChip, PrimaryButton, dll |
 
-### 4.6 Kesiapan Backend (Repository Pattern)
-
-UI tidak mengakses data langsung, tetapi lewat **repository**. Saat ini yang dipakai adalah repository mock. Saat **OpenWeather API** dipasang, cukup membuat repository baru dengan kontrak yang sama dan menukarnya di provider Riverpod. Layer UI tidak perlu diubah.
-
-```text
-UI (features/)  ->  Provider (Riverpod)  ->  Repository (interface)
-                                                 |-- MockRepository   (sekarang)
-                                                 |-- ApiRepository    (OpenWeather, nanti)
-```
-
-Hasil analisis kode: `flutter analyze` menunjukkan **0 issues found**.
 
 
 ## 5. Pengembangan Lanjutan
