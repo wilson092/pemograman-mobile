@@ -30,7 +30,7 @@
 | **Program Studi** | Teknik Informatika |
 | **Fakultas** | Ilmu Komputer |
 | **Mata Kuliah** | Pemrograman Mobile CR002 |
-| **Tugas** | Ujian Tengah Semester (UTS) |
+| **Tugas** | Ujian Tengah Semester |
 
 ### Tentang Proyek
 
